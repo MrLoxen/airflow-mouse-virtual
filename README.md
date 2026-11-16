@@ -51,4 +51,4 @@ MouseVirtual.py: script principal que procesa la lógica del negocio, mapea las 
 
 ## Autor
 Manuel Fereira
-Estudiante de ingeniería en sistemas.
+Desarrollador Full-stack y estudiante de ingeniería en sistemas.
